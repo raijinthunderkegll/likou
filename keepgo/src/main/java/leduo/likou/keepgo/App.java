@@ -1,2 +1,4 @@
-package leduo.likou.keepgo;public class App {
+package leduo.likou.keepgo;
+
+public class App {
 }
